@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Danfo&family=Jersey+25+Charted&family=Noto+Sans+JP:wght@100..900&family=Poetsen+One&display=swap');
+body{
+    background-image: url(/img/back\ 2nd\ 4to.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+h1 {
+    background-color:#63cdda;
+    text-align: center;
+    color:rgb(255, 255, 255);
+    font-family: "Poetsen One", sans-serif;  
+}
+
+h3{
+    text-align: center;
+    background-color: #63cdda;
+    font-family: "Poetsen One", sans-serif;
+    color: white;
+    padding: 15px;
+}
+
+#introduction{
+   color:#574b90; 
+   margin: 50px;  
+   padding: 10px;
+   word-spacing: 12px;
+}
+table{
+    color: rgb(5, 165, 251);
+    word-spacing: 20px;
+}
+#button{
+    padding: 30px;
+    margin: 100px;
+    background-color: black;
+    color: greenyellow;
+    border-radius: 50px;
+    border: 100px;
+    cursor: pointer;
+    border: 5px solid goldenrod;
+}
+.Box1{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    position: relative;
+    top: 75px;
+}
+.Box2{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+#mail{
+    color: #22a6b3;
+    font-size: xx-large;
+    position: fixed;
+    top: 90%;
+    left: 75%;
+}
+
+
